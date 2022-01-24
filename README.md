@@ -4,7 +4,8 @@ Welcome to this project. It is an auth system made with Vue.js, firebase authent
 ```
 ## Project setup
 ```
-Create an account on Firebase and edit with your credential  the scr/firestore.js
+Rename the file the scr/firestore.js.example to the scr/firestore.js
+Create an account on Firebase and edit src/firestore.js with your credential  
 
 ## Project setup
 ```
