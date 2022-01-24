@@ -1,6 +1,6 @@
 # Vue Firebase Authentication
 ```
-Welcome to this project. It is an auth system made with Vue.js, firebase autenthication, and Tailwind.css
+Welcome to this project. It is an auth system made with Vue.js, firebase authentication, and Tailwind.css
 ```
 ## Project setup
 ```
