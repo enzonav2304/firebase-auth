@@ -1,4 +1,10 @@
-# vue-hello
+# Vue Firebase Authentication
+```
+Welcome to this project. It is an auth system made with Vue.js, firebase autenthication, and Tailwind.css
+```
+## Project setup
+```
+Create an account on Firebase and edit with your credential  the scr/firestore.js
 
 ## Project setup
 ```
